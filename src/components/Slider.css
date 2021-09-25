@@ -1,0 +1,13 @@
+.carousel-root {
+    height: calc(100vh - 56px);
+}
+.carousel.carousel-slider , .carousel .slider-wrapper, .carousel .slider-wrapper.axis-horizontal .slider, .carousel .slide, .carousel .slider-wrapper.axis-horizontal .slider .slide div{
+    height: 100%;
+}
+.carousel .slide img{
+    height: 100%;
+    object-fit: cover;
+}
+.carousel .thumbs-wrapper {
+    display: none;
+}
