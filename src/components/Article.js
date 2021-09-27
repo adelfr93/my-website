@@ -13,7 +13,7 @@ export default class Article extends Component {
                 :
                     <List srcImg={this.props.srcImg} title={this.props.title} />
             }
-              
+               
             </>
         )
     }
