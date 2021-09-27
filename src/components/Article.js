@@ -4,7 +4,6 @@ import List from './List'
 
 export default class Article extends Component {
 
-
     render() {
         return (
             <>
