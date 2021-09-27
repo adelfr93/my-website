@@ -3,7 +3,7 @@ import React , { Component } from 'react'
 export default class Grid extends Component {
 
     render(){
-        return (
+        return ( 
         
             <div className="col-sm-6 col-lg-4 mb-4">
                     <div className="card" >
