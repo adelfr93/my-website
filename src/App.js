@@ -7,6 +7,7 @@ import About from './components/pages/About';
 import OurArticles from './components/pages/OurArticles';
 import Contact from './components/pages/Contact';
 
+// modif depuis github 
 function App() {
   return (
     <Router>
